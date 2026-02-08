@@ -1,14 +1,8 @@
-# Python Dependencies
-
-# Video Streaming
-opencv-python
-imageio[ffmpeg]
-
-# Motion Detection
-opencv-python-headless
-scikit-image
-imutils
-
-# Sensor Monitoring
-Adafruit-DHT
-RPi.GPIO
+opencv-python==4.6.0
+opencv-python-headless==4.6.0
+requests==2.27.1
+Flask==2.0.2
+Pillow==8.4.0
+numpy==1.21.5
+paho-mqtt==1.5.1
+rtsp-client==1.0.0
