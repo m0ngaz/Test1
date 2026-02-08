@@ -1,8 +1,8 @@
-# Requirements for Motion Detection Video Streaming Application
-
 opencv-python
 numpy
 flask
-imutils
-picamera
-video-streaming-library
+flask-cors
+opencv-contrib-python
+requests
+psutil
+paho-mqtt
